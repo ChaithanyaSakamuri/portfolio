@@ -1,0 +1,53 @@
+Sakamuri  Chaithanya Sudheer  
+Linkedin:  https://www.linkedin.com/in/chaithanya -sakamu ri Email:  chaituchowdary301 @gmail.com  
+Github:    https://github.com/ Chaithanya Sakamuri                         Mobile:  +91 8309040423  
+SKILLS  
+  Languages :              C, C++,  Python,  Java  
+  Tools/Platforms : NeoColab, MySQL, Excel, Power B I, Idle, VS Code  
+  Soft Skills :                   Problem -Solving,  Project  Management,  Adaptability, Quick Learner  
+PROJECTS  
+Shopping Cart  System  | Github  May’  24 
+• Developed high -precision financial logic with a 0.01% error tolerance via rigorous testing.  
+• Engineered stream -based I/O to ensure 100% session continuity  and data retention.  
+• Optimized cart performance using dynamic structures, increasing transaction speeds by 60%.  
+• Integrated real -time inventory validation to eliminate stock -out errors during checkout.  
+• Tech Used:  Core Java, Linked Structures, File Streams  
+HR Employee Dashboard  | Github  Apr’ 24 
+• Built interactive HR dashboards with real -time filtering for streamlined staff metric analysis.  
+• Secured sensitive personnel records via role -based access control in the relational database.  
+• Transformed workforce data into executive KPIs to monitor retention and departmental productivity.  
+• Automated report generation to reduce manual data entry and improve HR operational efficiency.  
+• Tech Used:  MS Excel, Power Query, Pivot Tables, Data Modeling  
+TRAINING  
+Data Science  (Skill Craft Technology ) | Certificate    Jun’ 25 – Jul’ 25 
+• Created  machine learning models to predict bank customer churn and improve retention.  
+• Leveraged geospatial analysis to pinpoint road safety accident hotspots for preventative planning.  
+• Executed rigorous data cleaning, feature engineering, and visualization to enhance model performance.  
+• Conducted comprehensive EDA on Zomato and Amazon datasets to uncover strategic business insights.  
+• Tech Used:  Python, Excel  
+ 
+Placement Ace Java Boot Camp (LPU) | Certificate    Jun’ 25 – Jul’ 25 
+• Mastered core OOPS  programming  concepts to ensure code modularity and maintainability.  
+• Applied advanced Data Structures (Trees, Graphs) to resolve intricate computational problems.  
+• Significantly enhanced coding speed and logical reasoning through practical coding challenges.  
+• Demonstrated high proficiency in Java development and over the one-month training period.  
+• Tech Used:  Java, OOPS  
+ 
+CERTIFICATES  
+Placement Ace Java Boot Camp  | LPU   Jul’ 25 
+Gen AI  Powered Job Simulation  | Tata                                                                                                                   Jul’ 25 
+Data Analytics Job Simulation | Deloitte                                                                                                                 Jun’ 25 
+Cloud Computing | NPTEL                                                                                                                                             Apr’ 25 
+ 
+PARTICIPATION  
+Participated in Code -A-Haunt 24 -hour Hackathon  | Certificate                 Mar’ 24 
+  Showcased exceptional coding and problem -solving skills in a n event organized by Coding Blocks LPU.   
+ 
+EDUCATION  
+Lovely  Professional  University  Phagwara,  Punjab  
+Bachelor  of Technology  Computer  Science  and Engineering;  CGPA:  5.88                                      Aug’ 23 – Present  
+Narayana Junior Collage                                                                                                     Vijayawda,  Andhra Pradesh  
+Intermediate  PCM ; Percentage:  62%                                                                                                      Mar’ 20 – May’  22 
+Narayana Olympiad School                                                                                                  Vijayawda,  Andhra Pradesh  
+Matriculation ; Percentage:  100%                                                                                                             Mar’ 19 – May’  20 
+ 
